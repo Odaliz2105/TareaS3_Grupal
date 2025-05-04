@@ -1,0 +1,9 @@
+@startuml
+Usuario<|--saludo1
+class Usuario{
+    + saludarUsuario(String): (String)
+}
+Object saludo1{
+    + nombre: "Nayely Ayol"
+}
+@enduml
