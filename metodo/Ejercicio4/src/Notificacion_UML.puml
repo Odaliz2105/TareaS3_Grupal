@@ -1,0 +1,8 @@
+@startuml
+Notificacion--|>notificacion1
+class Notificacion{
+    + enviarNotificacion(): void
+}
+Object notificacion1{
+}
+@enduml

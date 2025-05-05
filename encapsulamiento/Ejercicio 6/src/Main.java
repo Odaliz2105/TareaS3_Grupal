@@ -1,6 +1,5 @@
-
-public class Main_metodos {
+public class Main {
     public static void main(String[] args) {
-        //Ejercicio 01
+
     }
 }

@@ -1,0 +1,16 @@
+@startuml
+Auto--|>auto1
+    class Auto{
+    + velocidadMaxima: double
+    + velocidad: double
+    + velocidadFrenado: double
+    + acelerar():void
+    + frenar():void
+    }
+
+    Object auto1{
+    + velocidadMaxima = 200
+    + velocidad = 150
+    + velocidadFrenado = 50
+    }
+@enduml

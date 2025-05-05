@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/encapsulamiento/Ejercicio 1/Ejercicio 1.iml" filepath="$PROJECT_DIR$/encapsulamiento/Ejercicio 1/Ejercicio 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamiento/Ejercicio 2/Ejercicio 2.iml" filepath="$PROJECT_DIR$/encapsulamiento/Ejercicio 2/Ejercicio 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamiento/Ejercicio 3/Ejercicio 3.iml" filepath="$PROJECT_DIR$/encapsulamiento/Ejercicio 3/Ejercicio 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamiento/Ejercicio 4/Ejercicio 4.iml" filepath="$PROJECT_DIR$/encapsulamiento/Ejercicio 4/Ejercicio 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamiento/Ejercicio 5/Ejercicio 5.iml" filepath="$PROJECT_DIR$/encapsulamiento/Ejercicio 5/Ejercicio 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulamiento/Ejercicio 6/Ejercicio 6.iml" filepath="$PROJECT_DIR$/encapsulamiento/Ejercicio 6/Ejercicio 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodo/Ejercicio1/Ejercicio1.iml" filepath="$PROJECT_DIR$/metodo/Ejercicio1/Ejercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodo/Ejercicio2/Ejercicio2.iml" filepath="$PROJECT_DIR$/metodo/Ejercicio2/Ejercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodo/Ejercicio3/Ejercicio3.iml" filepath="$PROJECT_DIR$/metodo/Ejercicio3/Ejercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodo/Ejercicio4/Ejercicio4.iml" filepath="$PROJECT_DIR$/metodo/Ejercicio4/Ejercicio4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodo/Ejercicio5/Ejercicio5.iml" filepath="$PROJECT_DIR$/metodo/Ejercicio5/Ejercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodo/Ejercicio6/Ejercicio6.iml" filepath="$PROJECT_DIR$/metodo/Ejercicio6/Ejercicio6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodo/Ejercicio7/Ejercicio7.iml" filepath="$PROJECT_DIR$/metodo/Ejercicio7/Ejercicio7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validaciones/Ejercicio_1/Ejercicio_1.iml" filepath="$PROJECT_DIR$/validaciones/Ejercicio_1/Ejercicio_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validaciones/Ejercicio_2/Ejercicio_2.iml" filepath="$PROJECT_DIR$/validaciones/Ejercicio_2/Ejercicio_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validaciones/Ejercicio_3/Ejercicio_3.iml" filepath="$PROJECT_DIR$/validaciones/Ejercicio_3/Ejercicio_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validaciones/Ejercicio_4/Ejercicio_4.iml" filepath="$PROJECT_DIR$/validaciones/Ejercicio_4/Ejercicio_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/TareaS3_Grupal.iml" filepath="$PROJECT_DIR$/TareaS3_Grupal.iml" />
       <module fileurl="file://$PROJECT_DIR$/encapsulamiento/encapsulamiento.iml" filepath="$PROJECT_DIR$/encapsulamiento/encapsulamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodo/metodo.iml" filepath="$PROJECT_DIR$/metodo/metodo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/validaciones/validaciones.iml" filepath="$PROJECT_DIR$/validaciones/validaciones.iml" />
     </modules>
   </component>
