@@ -1,0 +1,21 @@
+@startuml
+Auto2--|>auto1
+class Auto2{
+    - velocidad: double
+    - vmaxima: double
+    - vfrenado: double
+    - vminima: double
+    + Auto2(double, double)
+    + setVelocidad(double): void
+    + getVelocidad(): double
+    + acelerar(): void
+    + fenar(): void
+}
+
+Object auto1{
+    - velocidad: 150
+    - vmaxima: 200
+    - vfrenado: 40
+    - vminima=0
+}
+@enduml
