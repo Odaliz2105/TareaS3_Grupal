@@ -1,0 +1,13 @@
+@startuml
+
+class DescuentoProducto {
+    +calcularDescuento(precio: double, porcentaje: double): int
+}
+
+class Main {
+    +main(args: String[]): void
+}
+
+Main --> DescuentoProducto : usa
+
+@enduml

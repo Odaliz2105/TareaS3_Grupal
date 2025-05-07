@@ -1,0 +1,13 @@
+@@startuml
+
+ class CalcularIva {
+     +calcularIva(precio: double): double
+ }
+
+ class Main {
+     +main(args: String[]): void
+ }
+
+ Main --> CalcularIva : usa
+
+ @enduml

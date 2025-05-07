@@ -1,0 +1,17 @@
+@startuml
+
+class CuentaBancaria {
+    -saldo: double
+    +CuentaBancaria()
+    +depositar(monto: double): void
+    +retirar(monto: double): void
+    +obtenerSaldo(): double
+}
+
+class Main {
+    +main(args: String[]): void
+}
+
+Main --> CuentaBancaria : usa
+
+@enduml
