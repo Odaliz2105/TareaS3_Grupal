@@ -27,7 +27,6 @@ public class Main {
         float dscto = teclado.nextFloat();
         teclado.nextLine();
         Productos Producto1 = new Productos();
-        Producto1.calcularPrecioConDescuento(precio, dscto);
 
         System.out.println("El valor total del producto es: " + df.format(Producto1.calcularPrecioConDescuento(precio, dscto)));
         teclado.close();
