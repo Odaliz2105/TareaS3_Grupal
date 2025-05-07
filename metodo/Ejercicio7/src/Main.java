@@ -10,7 +10,7 @@ class Productos {
     public float calcularPrecioConDescuento(float precio, float dscto) {
         this.precio = precio;
         this.dscto = dscto;
-        System.out.println("Tiene un descuento del " + dscto + "%" + " equivalente a " + precio + "");
+        System.out.println("Tiene un descuento del " + dscto + "%");
         dscto /= 100;
         this.total = precio * (1 - dscto);
         return this.total;
