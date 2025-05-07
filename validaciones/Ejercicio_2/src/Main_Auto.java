@@ -6,7 +6,7 @@ public class Main_Auto {
         Scanner sc=new Scanner(System.in);
 
         //Se solicitan los datos
-        System.out.println("------ESTADO DEL AUTO------");
+        System.out.println("--------------ESTADO DEL AUTO--------------");
         System.out.println("Ingrese los datos\n");
         System.out.println("Velocidad Maxima: ");
         double velocidadMaxima=sc.nextDouble();//Se lee la velocidad maxima
@@ -19,7 +19,7 @@ public class Main_Auto {
         Auto auto1=new Auto(velocidadMaxima, velocidad, velocidadFrenado);
 
         //Se llama a los metodos para mostrar los resultados
-        System.out.println("-------RESULTADOS------");
+        System.out.println("------------------RESULTADOS---------------");
         auto1.acelerar();
         auto1.frenar();
     }
