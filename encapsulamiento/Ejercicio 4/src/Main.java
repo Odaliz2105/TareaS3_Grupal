@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Crear objeto
-        Usuario usuario = new Usuario("Inglés", true);
+        Usuario usuario = new Usuario("Español", true);
 
         // Validar idioma inicial
         if (usuario.validarIdioma()) {

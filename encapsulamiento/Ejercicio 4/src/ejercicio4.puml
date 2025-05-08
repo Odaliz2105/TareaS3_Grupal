@@ -1,0 +1,13 @@
+@startuml
+class Usuario {
+    - idioma: String
+    - notificacionesActivadas: boolean
+
+    + Usuario(idioma: String, notificacionesActivadas: boolean)
+    + validarIdioma(): boolean
+    + validarNotificaciones(): boolean
+    + cambiarIdioma(nuevoIdioma: String): void
+    + activarNotificaciones(activar: boolean): void
+    + isNotificacionesActivadas(): boolean
+}
+@enduml
